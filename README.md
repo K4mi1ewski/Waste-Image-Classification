@@ -13,4 +13,4 @@ Datasets:
 - https://www.kaggle.com/datasets/sapal6/waste-classification-data-v2
 
 Link to the Dataset:
-- https://drive.google.com/file/d/1fiyrlNRuODXwptqE98iPerxsCGFH2Ihr/view?usp=sharing
+- https://drive.google.com/drive/folders/1ARRG4X00aZsU7azKMWF_W5SSUv8Gme93?usp=sharing
