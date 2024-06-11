@@ -11,3 +11,6 @@ Datasets:
 - https://github.com/spotgarbage/spotgarbage-GINI/tree/master/spotgarbage
 - https://github.com/nikhilvenkatkumsetty/TrashBox/tree/main/TrashBox_train_dataset_subfolders
 - https://www.kaggle.com/datasets/sapal6/waste-classification-data-v2
+
+Link to the Dataset:
+- https://drive.google.com/file/d/1fiyrlNRuODXwptqE98iPerxsCGFH2Ihr/view?usp=sharing
