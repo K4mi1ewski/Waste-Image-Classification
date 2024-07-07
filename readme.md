@@ -32,10 +32,11 @@ This guide provides instructions on how to use the Image Classifier GUI to class
     - A message box will pop up displaying the predicted class of the image.
 
 
-data_augmentation.ipynb
+
+# data_augmentation.ipynb
 This script is used for data augmentation. It contains various techniques and methods to increase the size and diversity of the dataset by applying transformations to the existing data.
 
-Waste-Image-Classification-models.ipynb
+# Waste-Image-Classification-models.ipynb
 This Jupyter notebook contains the documentation of the project. It includes an overall rating of the project's performance, detailed descriptions, and analysis of the results.
 
 ## Dataset
