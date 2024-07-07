@@ -1,7 +1,7 @@
-#Project Folder Contents
+# Project Folder Contents
 This folder contains several important scripts and notebooks related to the project. Below is a brief description of each file:
 
-##Files
+## Files
 GUI.py
 This script is responsible for the Graphical User Interface (GUI) of the project. It handles all the user interactions and visual components.
 ### Usage Guide
@@ -38,7 +38,7 @@ This script is used for data augmentation. It contains various techniques and me
 Waste-Image-Classification-models.ipynb
 This Jupyter notebook contains the documentation of the project. It includes an overall rating of the project's performance, detailed descriptions, and analysis of the results.
 
-##Dataset
+## Dataset
 You can access the dataset used in this project from the following link:
 
 [Dataset on Google Drive](https://drive.google.com/drive/folders/1ARRG4X00aZsU7azKMWF_W5SSUv8Gme93?usp=sharing)
